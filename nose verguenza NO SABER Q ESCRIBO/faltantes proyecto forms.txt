@@ -1,0 +1,3 @@
+agregar el SSup a la tabla de Producto
+
+CategoriaEnumeracion  = CatCb

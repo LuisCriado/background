@@ -1,0 +1,7 @@
+estructura y algoritmos
+azure Devops sdervice (de que se trata)
+Database Fudamentos ( Strore Producers,Costrais Tiggeres)
+entity (lazy eager , explicit loading ) , Change Ytacker API ,Migrations que es COde First,) [Hcer pruebas [VARIAS de como hacerlo y arregrar SQL  y ver en pogress]]
+DAPPer?
+
+

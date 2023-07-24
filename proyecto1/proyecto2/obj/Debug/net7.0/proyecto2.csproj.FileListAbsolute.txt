@@ -1,0 +1,15 @@
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\bin\Debug\net7.0\proyecto2.exe
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\bin\Debug\net7.0\proyecto2.deps.json
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\bin\Debug\net7.0\proyecto2.runtimeconfig.json
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\bin\Debug\net7.0\proyecto2.dll
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\bin\Debug\net7.0\proyecto2.pdb
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.csproj.AssemblyReference.cache
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.AssemblyInfoInputs.cache
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.AssemblyInfo.cs
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.dll
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\refint\proyecto2.dll
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.pdb
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\proyecto2.genruntimeconfig.cache
+C:\Users\Werty\OneDrive\Escritorio\proyecto1\proyecto2\obj\Debug\net7.0\ref\proyecto2.dll
